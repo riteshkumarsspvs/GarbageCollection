@@ -1,0 +1,14 @@
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.exe
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.deps.json
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.runtimeconfig.json
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.runtimeconfig.dev.json
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.dll
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.pdb
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.csproj.AssemblyReference.cache
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.AssemblyInfoInputs.cache
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.AssemblyInfo.cs
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.csproj.CoreCompileInputs.cache
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.dll
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.pdb
+D:\Study\Practice\GarbageCollection\GarbageCollection\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.genruntimeconfig.cache
